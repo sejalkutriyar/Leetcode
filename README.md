@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-k-radius-subarray-averages](https://github.com/sejalkutriyar/Leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sejalkutriyar/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sejalkutriyar/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sejalkutriyar/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sejalkutriyar/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sejalkutriyar/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sejalkutriyar/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
