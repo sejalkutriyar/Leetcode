@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sejalkutriyar/Leetcode/tree/master/0258-add-digits) |
 | [3870-count-commas-in-range](https://github.com/sejalkutriyar/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sejalkutriyar/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sejalkutriyar/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sejalkutriyar/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
