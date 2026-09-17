@@ -5,18 +5,13 @@ class Solution {
         int radiant = 0;
         int dire = 0;
         for (char c : senate.toCharArray()) {
-            if (c == 'R') {
-                radiant++;
-            } else {
-                dire++;
-            }
+            if (c == 'R') radiant++;
+            else dire++;
         }
         while (radiant > 0 && dire > 0) {
             for (int i = 0; i < n; i++) {
                 // Already banned
-                if (banned[i]) {
-                    continue;
-                }
+                if (banned[i]) continue;
                 if (senate.charAt(i) == 'R') {
                     // R bans next available D
                     for (int k = 1; k <= n; k++) {
@@ -38,9 +33,7 @@ class Solution {
                         }
                     }
                 }
-                if (radiant == 0 || dire == 0) {
-                    break;
-                }
+                if (radiant == 0 || dire == 0) break;
             }
         }
         return radiant > 0 ? "Radiant" : "Dire";
