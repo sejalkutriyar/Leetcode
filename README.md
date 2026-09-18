@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sejalkutriyar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/sejalkutriyar/Leetcode/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/sejalkutriyar/Leetcode/tree/master/0835-image-overlap) |
+| [0918-maximum-sum-circular-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2090-k-radius-subarray-averages](https://github.com/sejalkutriyar/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sejalkutriyar/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/sejalkutriyar/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0918-maximum-sum-circular-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sejalkutriyar/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/sejalkutriyar/Leetcode/tree/master/0649-dota2-senate) |
+| [0918-maximum-sum-circular-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Design
 |  |
 | ------- |
@@ -160,4 +163,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
