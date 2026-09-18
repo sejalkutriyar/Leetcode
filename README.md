@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sejalkutriyar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sejalkutriyar/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/sejalkutriyar/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sejalkutriyar/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/sejalkutriyar/Leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/sejalkutriyar/Leetcode/tree/master/0649-dota2-senate) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sejalkutriyar/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
