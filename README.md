@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sejalkutriyar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sejalkutriyar/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sejalkutriyar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sejalkutriyar/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sejalkutriyar/Leetcode/tree/master/0344-reverse-string) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0015-3sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sejalkutriyar/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
