@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sejalkutriyar/Leetcode/tree/master/0258-add-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/sejalkutriyar/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/sejalkutriyar/Leetcode/tree/master/0649-dota2-senate) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/sejalkutriyar/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
