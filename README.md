@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sejalkutriyar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sejalkutriyar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sejalkutriyar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sejalkutriyar/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sejalkutriyar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/sejalkutriyar/Leetcode/tree/master/0414-third-maximum-number) |
 | [0739-daily-temperatures](https://github.com/sejalkutriyar/Leetcode/tree/master/0739-daily-temperatures) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sejalkutriyar/Leetcode/tree/master/0169-majority-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sejalkutriyar/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/sejalkutriyar/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sejalkutriyar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/sejalkutriyar/Leetcode/tree/master/0414-third-maximum-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sejalkutriyar/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sejalkutriyar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
@@ -191,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sejalkutriyar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sejalkutriyar/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sejalkutriyar/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
