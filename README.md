@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sejalkutriyar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sejalkutriyar/Leetcode/tree/master/0414-third-maximum-number) |
 | [0739-daily-temperatures](https://github.com/sejalkutriyar/Leetcode/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/sejalkutriyar/Leetcode/tree/master/0752-open-the-lock) |
 | [0835-image-overlap](https://github.com/sejalkutriyar/Leetcode/tree/master/0835-image-overlap) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sejalkutriyar/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sejalkutriyar/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sejalkutriyar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0752-open-the-lock](https://github.com/sejalkutriyar/Leetcode/tree/master/0752-open-the-lock) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sejalkutriyar/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/sejalkutriyar/Leetcode/tree/master/0344-reverse-string) |
 | [0649-dota2-senate](https://github.com/sejalkutriyar/Leetcode/tree/master/0649-dota2-senate) |
+| [0752-open-the-lock](https://github.com/sejalkutriyar/Leetcode/tree/master/0752-open-the-lock) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/sejalkutriyar/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -219,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sejalkutriyar/Leetcode/tree/master/0169-majority-element) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/sejalkutriyar/Leetcode/tree/master/0752-open-the-lock) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/sejalkutriyar/Leetcode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
