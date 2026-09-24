@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sejalkutriyar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sejalkutriyar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/sejalkutriyar/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/sejalkutriyar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sejalkutriyar/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/sejalkutriyar/Leetcode/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/sejalkutriyar/Leetcode/tree/master/1472-design-browser-history) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sejalkutriyar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/sejalkutriyar/Leetcode/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sejalkutriyar/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sejalkutriyar/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/sejalkutriyar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1472-design-browser-history](https://github.com/sejalkutriyar/Leetcode/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
