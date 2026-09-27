@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sejalkutriyar/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1472-design-browser-history](https://github.com/sejalkutriyar/Leetcode/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1534-count-good-triplets](https://github.com/sejalkutriyar/Leetcode/tree/master/1534-count-good-triplets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sejalkutriyar/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/sejalkutriyar/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sejalkutriyar/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/sejalkutriyar/Leetcode/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sejalkutriyar/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sejalkutriyar/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
