@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sejalkutriyar/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/sejalkutriyar/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sejalkutriyar/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1512-number-of-good-pairs](https://github.com/sejalkutriyar/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sejalkutriyar/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3516-find-closest-person](https://github.com/sejalkutriyar/Leetcode/tree/master/3516-find-closest-person) |
 | [3524-find-x-value-of-array-i](https://github.com/sejalkutriyar/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sejalkutriyar/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1472-design-browser-history](https://github.com/sejalkutriyar/Leetcode/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1512-number-of-good-pairs](https://github.com/sejalkutriyar/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/sejalkutriyar/Leetcode/tree/master/1534-count-good-triplets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sejalkutriyar/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/sejalkutriyar/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/sejalkutriyar/Leetcode/tree/master/0752-open-the-lock) |
 | [1096-brace-expansion-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1512-number-of-good-pairs](https://github.com/sejalkutriyar/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sejalkutriyar/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sejalkutriyar/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sejalkutriyar/Leetcode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/sejalkutriyar/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
