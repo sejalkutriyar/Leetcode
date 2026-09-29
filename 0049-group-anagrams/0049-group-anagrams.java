@@ -1,17 +1,40 @@
 class Solution {
+    public boolean isAnagram(String s, String t) {
+        if (s.length() != t.length()) {
+            return false;
+        }
+        int[] freq = new int[26];
+        for (char a : s.toCharArray()) {
+            freq[a - 'a']++;
+        }
+        for (char a : t.toCharArray()) {
+            freq[a - 'a']--;
+        }
+        for (int count : freq) {
+            if (count != 0) {
+                return false;
+            }
+        }
+        return true;
+    }
     public List<List<String>> groupAnagrams(String[] strs) {
-        Map<String,List<String>>map=new HashMap<>();
-        for(String s:strs){
-            char[] char_array=s.toCharArray();
-            Arrays.sort(char_array);
-            String sorted_string=String.valueOf(char_array);
-            map.putIfAbsent(sorted_string,new ArrayList<>());
-            map.get(sorted_string).add(s);
+        List<List<String>> ans = new ArrayList<>();
+        boolean[] used = new boolean[strs.length];
+        for (int i = 0; i < strs.length; i++) {
+            if (used[i]) {
+                continue;
+            }
+            List<String> group = new ArrayList<>();
+            group.add(strs[i]);
+            used[i] = true;
+            for (int j = i + 1; j < strs.length; j++) {
+                if (!used[j] && isAnagram(strs[i], strs[j])) {
+                    group.add(strs[j]);
+                    used[j] = true;
+                }
+            }
+            ans.add(group);
         }
-        List<List<String>> re=new ArrayList<>();
-        for(List<String> group:map.values()){
-            re.add(group);
-        }
-        return re;
+        return ans;
     }
 }
