@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sejalkutriyar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sejalkutriyar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/sejalkutriyar/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sejalkutriyar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sejalkutriyar/Leetcode/tree/master/0075-sort-colors) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sejalkutriyar/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sejalkutriyar/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sejalkutriyar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0752-open-the-lock](https://github.com/sejalkutriyar/Leetcode/tree/master/0752-open-the-lock) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/sejalkutriyar/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sejalkutriyar/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sejalkutriyar/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sejalkutriyar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sejalkutriyar/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sejalkutriyar/Leetcode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/sejalkutriyar/Leetcode/tree/master/0344-reverse-string) |
 | [0649-dota2-senate](https://github.com/sejalkutriyar/Leetcode/tree/master/0649-dota2-senate) |
 | [0752-open-the-lock](https://github.com/sejalkutriyar/Leetcode/tree/master/0752-open-the-lock) |
