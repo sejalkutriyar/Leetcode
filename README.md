@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sejalkutriyar/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sejalkutriyar/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Doubly-Linked List
@@ -145,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sejalkutriyar/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sejalkutriyar/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sejalkutriyar/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sejalkutriyar/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Table
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sejalkutriyar/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/sejalkutriyar/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0494-target-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sejalkutriyar/Leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/sejalkutriyar/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -421,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
