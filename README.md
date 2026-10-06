@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sejalkutriyar/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/sejalkutriyar/Leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/sejalkutriyar/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sejalkutriyar/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sejalkutriyar/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sejalkutriyar/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sejalkutriyar/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/sejalkutriyar/Leetcode/tree/master/0752-open-the-lock) |
 | [0856-score-of-parentheses](https://github.com/sejalkutriyar/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sejalkutriyar/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sejalkutriyar/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sejalkutriyar/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sejalkutriyar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/sejalkutriyar/Leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/sejalkutriyar/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sejalkutriyar/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Range Minimum/Maximum Query
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sejalkutriyar/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sejalkutriyar/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sejalkutriyar/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sejalkutriyar/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sejalkutriyar/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sejalkutriyar/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sejalkutriyar/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
