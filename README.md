@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sejalkutriyar/Leetcode/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/sejalkutriyar/Leetcode/tree/master/0752-open-the-lock) |
 | [0835-image-overlap](https://github.com/sejalkutriyar/Leetcode/tree/master/0835-image-overlap) |
+| [0905-sort-array-by-parity](https://github.com/sejalkutriyar/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/sejalkutriyar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sejalkutriyar/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sejalkutriyar/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sejalkutriyar/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sejalkutriyar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/sejalkutriyar/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sejalkutriyar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sejalkutriyar/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sejalkutriyar/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sejalkutriyar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sejalkutriyar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sejalkutriyar/Leetcode/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/sejalkutriyar/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sejalkutriyar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
