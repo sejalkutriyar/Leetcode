@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/sejalkutriyar/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/sejalkutriyar/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/sejalkutriyar/Leetcode/tree/master/2540-minimum-common-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sejalkutriyar/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sejalkutriyar/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3355-zero-array-transformation-i](https://github.com/sejalkutriyar/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sejalkutriyar/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/sejalkutriyar/Leetcode/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sejalkutriyar/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sejalkutriyar/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sejalkutriyar/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
