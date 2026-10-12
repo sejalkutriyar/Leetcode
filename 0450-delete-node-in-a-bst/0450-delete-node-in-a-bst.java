@@ -15,39 +15,35 @@
  */
 class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
-        List<Integer> values = new ArrayList<>();
-        inorder(root, key, values);
+        if (root == null) return null;
 
-        TreeNode newRoot = null;
+        if (key < root.val) {
+            root.left = deleteNode(root.left, key);
+        } 
+        else if (key > root.val) {
+            root.right = deleteNode(root.right, key);
+        } 
+        else {
+            // Case 1: No left child
+            if (root.left == null) return root.right;
 
-        for (int val : values) {
-            newRoot = insert(newRoot, val);
+            // Case 2: No right child
+            if (root.right == null) return root.left;
+
+            // Case 3: Two children
+            TreeNode successor = root.right;
+            while (successor.left != null) {
+                successor = successor.left;
+            }
+            root.val = successor.val;
+            root.right = deleteNode(root.right, successor.val);
         }
-
-        return newRoot;
-    }
-
-    void inorder(TreeNode root, int key, List<Integer> values) {
-        if (root == null) return;
-
-        inorder(root.left, key, values);
-
-        if (root.val != key) {
-            values.add(root.val);
-        }
-
-        inorder(root.right, key, values);
-    }
-
-    TreeNode insert(TreeNode root, int val) {
-        if (root == null) return new TreeNode(val);
-
-        if (val < root.val) {
-            root.left = insert(root.left, val);
-        } else {
-            root.right = insert(root.right, val);
-        }
-
         return root;
+    }
+    public int getMin(TreeNode node){
+        while(node.left != null){
+            node = node.left;
+        }
+        return node.val;
     }
 }
