@@ -40,10 +40,4 @@ class Solution {
         }
         return root;
     }
-    public int getMin(TreeNode node){
-        while(node.left != null){
-            node = node.left;
-        }
-        return node.val;
-    }
 }
