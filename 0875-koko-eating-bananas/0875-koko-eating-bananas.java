@@ -5,6 +5,9 @@ class Solution {
         for(int i = 0 ; i< piles.length ;i++){
             max = Math.max(max,piles[i]);
         }
+        if(piles.length == h) {
+            return max;
+        }
         while(start<=max){
             int mid = start + (max-start)/2;
             long hour = 0;
