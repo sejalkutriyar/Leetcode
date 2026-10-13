@@ -4,36 +4,31 @@ class Solution {
             return 0;
         }
 
-        int leftHeight = getLeftHeight(root);
-        int rightHeight = getRightHeight(root);
+        int left = leftHeight(root);
+        int right = rightHeight(root);
 
-        if (leftHeight == rightHeight) {
-            return (1 << leftHeight) - 1;
+        if (left == right) {
+            return (1 << left) - 1;
         }
 
-        return 1 + countNodes(root.left)
-                 + countNodes(root.right);
+        return 1 + countNodes(root.left) + countNodes(root.right);
     }
 
-    private int getLeftHeight(TreeNode root) {
-        int height = 0;
-
-        while (root != null) {
-            height++;
-            root = root.left;
+    private int leftHeight(TreeNode node) {
+        int h = 0;
+        while (node != null) {
+            h++;
+            node = node.left;
         }
-
-        return height;
+        return h;
     }
 
-    private int getRightHeight(TreeNode root) {
-        int height = 0;
-
-        while (root != null) {
-            height++;
-            root = root.right;
+    private int rightHeight(TreeNode node) {
+        int h = 0;
+        while (node != null) {
+            h++;
+            node = node.right;
         }
-
-        return height;
+        return h;
     }
 }
