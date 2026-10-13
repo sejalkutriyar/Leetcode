@@ -14,7 +14,7 @@ class Solution {
         return 1 + countNodes(root.left) + countNodes(root.right);
     }
 
-    private int leftHeight(TreeNode node) {
+    public int leftHeight(TreeNode node) {
         int h = 0;
         while (node != null) {
             h++;
@@ -23,7 +23,7 @@ class Solution {
         return h;
     }
 
-    private int rightHeight(TreeNode node) {
+    public int rightHeight(TreeNode node) {
         int h = 0;
         while (node != null) {
             h++;
