@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/sejalkutriyar/Leetcode/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sejalkutriyar/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sejalkutriyar/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sejalkutriyar/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3355-zero-array-transformation-i](https://github.com/sejalkutriyar/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sejalkutriyar/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/sejalkutriyar/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/sejalkutriyar/Leetcode/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sejalkutriyar/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sejalkutriyar/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/sejalkutriyar/Leetcode/tree/master/3731-find-missing-elements) |
 ## Enumeration
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sejalkutriyar/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Bracket Sequences
 |  |
@@ -518,4 +521,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sejalkutriyar/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
