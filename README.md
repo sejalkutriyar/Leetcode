@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sejalkutriyar/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sejalkutriyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sejalkutriyar/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2235-add-two-integers](https://github.com/sejalkutriyar/Leetcode/tree/master/2235-add-two-integers) |
 | [3516-find-closest-person](https://github.com/sejalkutriyar/Leetcode/tree/master/3516-find-closest-person) |
 | [3524-find-x-value-of-array-i](https://github.com/sejalkutriyar/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
