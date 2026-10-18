@@ -17,11 +17,9 @@ class Solution {
             return common;
         }
         if(min1 <= min2){
-            ans = min1 * 10;
-            ans = ans + min2;
+            ans = min1 * 10 + min2;
         }else{
-            ans = min2 * 10;
-            ans = ans + min1;
+            ans = min2 * 10 + min1;
         }
         return ans;
     }
