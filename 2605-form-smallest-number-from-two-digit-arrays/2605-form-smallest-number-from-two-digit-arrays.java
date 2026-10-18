@@ -1,17 +1,20 @@
 class Solution {
     public int minNumber(int[] nums1, int[] nums2) {
+        boolean [] seen = new boolean[10];
         int common = Integer.MAX_VALUE;
         int min1 = Integer.MAX_VALUE;
         int min2 = Integer.MAX_VALUE;
         int ans = 0;
         for(int num : nums1){
             min1 = Math.min(min1,num);
-            for(int n : nums2){
-                if(num == n){
-                    common = Math.min(common,num);
-                }
-                min2 = Math.min(min2,n);
+            seen[num]  = true; 
+            
+        }
+        for(int n : nums2){
+            if(seen[n] == true){
+                common = Math.min(common,n);
             }
+            min2 = Math.min(min2,n);
         }
         if(common != Integer.MAX_VALUE){
             return common;
