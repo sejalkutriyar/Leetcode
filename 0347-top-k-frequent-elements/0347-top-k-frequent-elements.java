@@ -6,17 +6,18 @@ class Solution {
         }
 
         int[] ans = new int[k];
-        for (int i = 0; i < k; i++) {
-            int maxFreq = 0;
-            int maxNum = 0;
-            for (int num : map.keySet()) {
-                if (map.get(num) > maxFreq) {
-                    maxFreq = map.get(num);
-                    maxNum = num;
-                }
+        PriorityQueue<Integer> pq = new PriorityQueue<>((num, b) -> map.get(num)-map.get(b));
+        int idx= 0;
+        for(int key: map.keySet()){
+            int freq = map.get(key);
+            pq.add(key);
+            if(pq.size() > k){
+                pq.poll();
             }
-            ans[i] = maxNum;
-            map.remove(maxNum);
+        }
+
+        while(!pq.isEmpty()){
+            ans[idx++] = pq.poll();
         }
         return ans;
     }
