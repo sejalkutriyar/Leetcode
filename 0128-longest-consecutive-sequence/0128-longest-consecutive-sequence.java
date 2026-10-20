@@ -5,9 +5,9 @@ class Solution {
             set.add(a);
         }
         int length = 0;
-        for(int i: set){
-            if(!set.contains(i-1)){
-                int current = i;
+        for(int a : set){
+            if(!set.contains(a-1)){
+                int current = a;
                 int count = 1;
                 while(set.contains(current+1)){
                     current++;
