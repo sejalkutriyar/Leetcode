@@ -6,6 +6,6 @@ class Solution {
             sum += num;
             min = Math.min(min, sum);
         }
-        return 1 - min;
+        return 1 + Math.abs(min);
     }
 }
