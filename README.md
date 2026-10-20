@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sejalkutriyar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sejalkutriyar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/sejalkutriyar/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sejalkutriyar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sejalkutriyar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sejalkutriyar/Leetcode/tree/master/0414-third-maximum-number) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/sejalkutriyar/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/sejalkutriyar/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sejalkutriyar/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/sejalkutriyar/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sejalkutriyar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/sejalkutriyar/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1472-design-browser-history](https://github.com/sejalkutriyar/Leetcode/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
