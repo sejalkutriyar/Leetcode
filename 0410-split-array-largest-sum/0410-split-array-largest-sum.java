@@ -23,13 +23,13 @@ class Solution {
             if(curr + x > max) {
                 a++;
                 curr = x;
-                if( a > k) {
-                    return false;
-                }
+                // if( a > k) {
+                //     return false;
+                // }
             } else {
                 curr += x;
             }
         }
-        return true;
+        return a <= k;
     }
 }
