@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sejalkutriyar/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sejalkutriyar/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sejalkutriyar/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sejalkutriyar/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sejalkutriyar/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sejalkutriyar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sejalkutriyar/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Quicksort
 |  |
 | ------- |
