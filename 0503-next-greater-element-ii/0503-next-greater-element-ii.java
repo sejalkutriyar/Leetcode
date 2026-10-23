@@ -4,13 +4,18 @@ class Solution {
         int n = nums.length;
         int res[] = new int[n];
         Arrays.fill(res, -1);
-        for(int i = 0; i < 2*n; i++){
-            while(!st.empty() && nums[st.peek()] < nums[i % n]){
-                res[st.pop()] = nums[i % n];
+        for (int i = 2 * n - 1; i >= 0; i--) {
+            int curr = nums[i % n];
+
+            while (!st.empty() && st.peek() <= curr) {
+                st.pop();
             }
-            if(i<n){
-                st.push(i);
+
+            if (!st.empty()) {
+                res[i % n] = st.peek();
             }
+
+            st.push(curr);
         }
         return res;
     }
