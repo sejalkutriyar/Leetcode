@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sejalkutriyar/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/sejalkutriyar/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sejalkutriyar/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2239-find-closest-number-to-zero](https://github.com/sejalkutriyar/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sejalkutriyar/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sejalkutriyar/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sejalkutriyar/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sejalkutriyar/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sejalkutriyar/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sejalkutriyar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sejalkutriyar/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sejalkutriyar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sejalkutriyar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sejalkutriyar/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
