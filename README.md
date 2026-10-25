@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/sejalkutriyar/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/sejalkutriyar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sejalkutriyar/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/sejalkutriyar/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sejalkutriyar/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1472-design-browser-history](https://github.com/sejalkutriyar/Leetcode/tree/master/1472-design-browser-history) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sejalkutriyar/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0508-most-frequent-subtree-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/sejalkutriyar/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sejalkutriyar/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Doubly-Linked List
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sejalkutriyar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/sejalkutriyar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/sejalkutriyar/Leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/sejalkutriyar/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sejalkutriyar/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Geometry
 |  |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/sejalkutriyar/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0752-open-the-lock](https://github.com/sejalkutriyar/Leetcode/tree/master/0752-open-the-lock) |
 | [1096-brace-expansion-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/sejalkutriyar/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sejalkutriyar/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/sejalkutriyar/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sejalkutriyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
