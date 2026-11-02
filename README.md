@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sejalkutriyar/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/sejalkutriyar/Leetcode/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sejalkutriyar/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/sejalkutriyar/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/sejalkutriyar/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sejalkutriyar/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/sejalkutriyar/Leetcode/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sejalkutriyar/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/sejalkutriyar/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sejalkutriyar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sejalkutriyar/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sejalkutriyar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/sejalkutriyar/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sejalkutriyar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/1096-brace-expansion-ii) |
