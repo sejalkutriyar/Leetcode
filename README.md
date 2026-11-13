@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sejalkutriyar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sejalkutriyar/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sejalkutriyar/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sejalkutriyar/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sejalkutriyar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sejalkutriyar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/0090-subsets-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sejalkutriyar/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0100-same-tree) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sejalkutriyar/Leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/sejalkutriyar/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sejalkutriyar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/sejalkutriyar/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/sejalkutriyar/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sejalkutriyar/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/sejalkutriyar/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sejalkutriyar/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/sejalkutriyar/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/sejalkutriyar/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sejalkutriyar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sejalkutriyar/Leetcode/tree/master/0242-valid-anagram) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sejalkutriyar/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/sejalkutriyar/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sejalkutriyar/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sejalkutriyar/Leetcode/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/sejalkutriyar/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0494-target-sum) |
