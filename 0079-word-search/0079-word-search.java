@@ -1,37 +1,33 @@
 class Solution {
-    public boolean getAns(char[][]board, String word, boolean[][] vis, int i, int j, int startIndex){
-        if(startIndex  == word.length()){
-            return true;
-        }
-        if(i<0 || j<0 || i>=board.length || j>=board[0].length || vis[i][j] || board[i][j] != word.charAt(startIndex))
-            return false;
-
-        vis[i][j] = true;
-        if(getAns(board, word, vis, i+1, j, startIndex+1) || 
-        getAns(board, word, vis, i-1, j, startIndex+1) || 
-        getAns(board, word, vis, i, j+1, startIndex+1) || 
-        getAns(board, word, vis, i, j-1, startIndex+1)){
-            return true;
-        }
-        vis[i][j] = false;
-        return false;
-    }
     public boolean exist(char[][] board, String word) {
-        int m = board.length;
-        int n = board[0].length;
-        boolean[][] vis = new boolean [m][n];
-        boolean result = false;
-
-        for(int i = 0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(board[i][j] == word.charAt(0)){
-                    result = getAns(board,word,vis,i,j,0);
-                    if(result){
-                        return true;
-                    }
+        int row = board.length;
+        int col = board[0].length;
+        boolean vis[][] = new boolean[row][col];
+        boolean result=false;
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+                if(word.charAt(0)==board[i][j]){
+                    result=backtrack(board,word,row,col,i,j,vis,0);
+                    if(result)return true;
                 }
             }
         }
-        return result;
+        return false;
+    }
+    boolean backtrack(char[][] board,String word,int row,int col,int i,int j,boolean[][]vis,int ind){
+        if(ind==word.length())return true;
+        if(i<0||i>=row||j<0||j>=col||vis[i][j]||board[i][j]!=word.charAt(ind)){
+            return false;
+        }
+        vis[i][j]=true;
+
+        if(backtrack(board,word,row,col,i+1,j,vis,ind+1)||
+        backtrack(board,word,row,col,i-1,j,vis,ind+1)||
+        backtrack(board,word,row,col,i,j+1,vis,ind+1)||
+        backtrack(board,word,row,col,i,j-1,vis,ind+1)){
+            return true;
+        }
+        vis[i][j]=false;
+        return false;
     }
 }
