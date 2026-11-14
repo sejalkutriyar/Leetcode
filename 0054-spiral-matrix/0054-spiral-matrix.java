@@ -10,6 +10,7 @@ class Solution {
         int totalElements = rows * cols;
 
         while (top <= bottom && left <= right && result.size() < totalElements) {
+            
             // Traverse from left to right along the top row
             for (int col = left; col <= right && result.size() < totalElements; col++) {
                 result.add(matrix[top][col]);
