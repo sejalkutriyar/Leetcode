@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/sejalkutriyar/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sejalkutriyar/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/sejalkutriyar/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sejalkutriyar/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/sejalkutriyar/Leetcode/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/sejalkutriyar/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sejalkutriyar/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sejalkutriyar/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sejalkutriyar/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sejalkutriyar/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sejalkutriyar/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/sejalkutriyar/Leetcode/tree/master/2540-minimum-common-value) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sejalkutriyar/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sejalkutriyar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/sejalkutriyar/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sejalkutriyar/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sejalkutriyar/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
