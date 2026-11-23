@@ -1,19 +1,24 @@
 class Solution {
     public int maxArea(int[] height) {
-        int left = 0;
-        int right = height.length - 1;
-        int max_Area = 0;
-        while(left < right) {
+       // left pointer at index 0, right pointer at index height.length - 1
+       int n = height.length;
+       int left = 0;
+       int right = n - 1;
+       int maxArea = 0;
+       // check from the lower bar: is there another bar that is higher?
+       while (left < right) {
             int h = Math.min(height[left], height[right]);
-            int w = right - left;
-            int curr_area = h * w;
-            max_Area = Math.max(max_Area, curr_area);
-            if(height[left] < height[right]) {
-                left++;
+            maxArea = Math.max(maxArea, h * (right - left));
+            if (height[left] < height[right]) {
+                while (left < right && height[left] <= h) {
+                    left++;
+                }
             } else {
-                right--;
+                while (left < right && height[right] <= h) {
+                    right--;
+                }
             }
-        }
-        return max_Area;
+       }
+       return maxArea;
     }
 }
