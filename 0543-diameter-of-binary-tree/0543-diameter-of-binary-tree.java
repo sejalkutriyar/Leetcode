@@ -20,7 +20,6 @@ class Solution {
         return max;
     }
     public int helper(TreeNode root) {
-
         if(root == null) {
             return 0;
         }
@@ -29,5 +28,4 @@ class Solution {
         max = Math.max(max, left+right);
         return Math.max(left, right) + 1;
     }
-
 }
