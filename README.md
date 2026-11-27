@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sejalkutriyar/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sejalkutriyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sejalkutriyar/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/sejalkutriyar/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sejalkutriyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sejalkutriyar/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sejalkutriyar/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sejalkutriyar/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sejalkutriyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
